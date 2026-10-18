@@ -1,0 +1,640 @@
+{"text": "La facturation de l'API produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant le site", "label": "serveur"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de le portail client", "label": "reseau"}
+{"text": "Depuis hier, les factures de le portail client ne sont pas générées", "label": "paiement"}
+{"text": "Page blanche et erreur JavaScript sur le site", "label": "interface"}
+{"text": "Urgent : Les données de l'API sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, le redémarrage de le module d'export boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, les données de le backend sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Les pages de le portail client s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Un cas limite fait planter le calcul de la plateforme", "label": "bug_applicatif"}
+{"text": "Urgent : Un cas limite fait planter le calcul de le backend", "label": "bug_applicatif"}
+{"text": "Signalement client : Le stockage de la plateforme est presque plein", "label": "stockage"}
+{"text": "Signalement client : L'image Docker de l'application ne se construit pas", "label": "deploiement"}
+{"text": "La sauvegarde nocturne de le module d'export a échoué", "label": "stockage"}
+{"text": "Signalement client : Retour à la version précédente de le module d'export nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Ralentissements importants constatés sur le backend", "label": "performance"}
+{"text": "Depuis hier, ralentissements importants constatés sur l'API", "label": "performance"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur l'application", "label": "interface"}
+{"text": "Depuis hier, la sauvegarde nocturne de le backend a échoué", "label": "stockage"}
+{"text": "Depuis hier, les images de le module d'export ne s'affichent plus", "label": "interface"}
+{"text": "Urgent : Appels réseau vers l'API bloqués par le pare-feu", "label": "reseau"}
+{"text": "La base de le site refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Les images de le module d'export ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans le module d'export", "label": "bug_applicatif"}
+{"text": "Retour à la version précédente de le portail client nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les factures de la plateforme ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de l'API", "label": "bug_applicatif"}
+{"text": "Urgent : Appels réseau vers le portail client bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Le stockage de le backend est presque plein", "label": "stockage"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur l'API", "label": "interface"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur le backend", "label": "interface"}
+{"text": "Aucune réponse du serveur hébergeant le backend", "label": "serveur"}
+{"text": "Signalement client : Le login sur le site est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Urgent : Les images de le portail client ne s'affichent plus", "label": "interface"}
+{"text": "Urgent : Ralentissements importants constatés sur le module d'export", "label": "performance"}
+{"text": "Urgent : Les pages de le module d'export s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Appels réseau vers le site bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Les données de le site sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, le stockage de le portail client est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les données de la plateforme sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Les pages de l'application s'affichent après un long délai", "label": "performance"}
+{"text": "Depuis hier, la sauvegarde nocturne de l'API a échoué", "label": "stockage"}
+{"text": "Depuis hier, appels réseau vers le module d'export bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, ralentissements importants constatés sur l'application", "label": "performance"}
+{"text": "Urgent : Le login sur le module d'export est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Signalement client : La base de le backend refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, le login sur la plateforme est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Les factures de le site ne sont pas générées", "label": "paiement"}
+{"text": "Page blanche et erreur JavaScript sur la plateforme", "label": "interface"}
+{"text": "Signalement client : Les images de le portail client ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Le login sur le module d'export est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Le redémarrage de le site boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, les données de le service de facturation sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, le redémarrage de l'API boucle indéfiniment", "label": "serveur"}
+{"text": "La base de la plateforme refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Le stockage de le service de facturation est presque plein", "label": "stockage"}
+{"text": "Signalement client : Retour à la version précédente de le site nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Retour à la version précédente de le site nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Signalement client : Appels réseau vers le service de facturation bloqués par le pare-feu", "label": "reseau"}
+{"text": "Les factures de la plateforme ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur le backend", "label": "interface"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : Le redémarrage de la plateforme boucle indéfiniment", "label": "serveur"}
+{"text": "Signalement client : Les sessions de le module d'export se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : La facturation de le module d'export produit des erreurs", "label": "paiement"}
+{"text": "Urgent : L'image Docker de le module d'export ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Le login sur le service de facturation est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de la plateforme", "label": "bug_applicatif"}
+{"text": "Signalement client : L'image Docker de le service de facturation ne se construit pas", "label": "deploiement"}
+{"text": "La base de l'API refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Ralentissements importants constatés sur l'API", "label": "performance"}
+{"text": "Depuis hier, l'image Docker de le module d'export ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Un cas limite fait planter le calcul de le site", "label": "bug_applicatif"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de le backend", "label": "bug_applicatif"}
+{"text": "Depuis hier, l'image Docker de le site ne se construit pas", "label": "deploiement"}
+{"text": "Les données de le module d'export sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Le stockage de le backend est presque plein", "label": "stockage"}
+{"text": "Un cas limite fait planter le calcul de le service de facturation", "label": "bug_applicatif"}
+{"text": "Depuis hier, appels réseau vers le service de facturation bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : Retour à la version précédente de le backend nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de le site", "label": "bug_applicatif"}
+{"text": "Urgent : Un cas limite fait planter le calcul de le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : Ralentissements importants constatés sur l'API", "label": "performance"}
+{"text": "Signalement client : Les sessions de l'API se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Les factures de le backend ne sont pas générées", "label": "paiement"}
+{"text": "Les sessions de le service de facturation se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, la base de le backend refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Le proxy bloque les appels sortants de le backend", "label": "reseau"}
+{"text": "Urgent : Les sessions de le backend se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Le proxy bloque les appels sortants de le backend", "label": "reseau"}
+{"text": "Signalement client : La sauvegarde nocturne de l'application a échoué", "label": "stockage"}
+{"text": "Les pages de l'application s'affichent après un long délai", "label": "performance"}
+{"text": "Le login sur l'application est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Urgent : Le proxy bloque les appels sortants de le module d'export", "label": "reseau"}
+{"text": "Depuis hier, les factures de l'application ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, les images de le portail client ne s'affichent plus", "label": "interface"}
+{"text": "Appels réseau vers le service de facturation bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Ralentissements importants constatés sur le portail client", "label": "performance"}
+{"text": "Urgent : Ralentissements importants constatés sur la plateforme", "label": "performance"}
+{"text": "Depuis hier, l'image Docker de l'API ne se construit pas", "label": "deploiement"}
+{"text": "Signalement client : Le stockage de le backend est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les images de le module d'export ne s'affichent plus", "label": "interface"}
+{"text": "Le stockage de la plateforme est presque plein", "label": "stockage"}
+{"text": "Signalement client : Appels réseau vers le backend bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : L'image Docker de la plateforme ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, la base de l'API refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Les factures de l'application ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Les images de le service de facturation ne s'affichent plus", "label": "interface"}
+{"text": "Les images de l'application ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Ralentissements importants constatés sur l'application", "label": "performance"}
+{"text": "Signalement client : Les images de le backend ne s'affichent plus", "label": "interface"}
+{"text": "Retour à la version précédente de la plateforme nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, les sessions de le backend se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Un cas limite fait planter le calcul de le module d'export", "label": "bug_applicatif"}
+{"text": "Signalement client : La sauvegarde nocturne de l'API a échoué", "label": "stockage"}
+{"text": "Les sessions de le portail client se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Les factures de le service de facturation ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans l'application", "label": "bug_applicatif"}
+{"text": "Depuis hier, la facturation de le backend produit des erreurs", "label": "paiement"}
+{"text": "Les images de le module d'export ne s'affichent plus", "label": "interface"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans l'application", "label": "bug_applicatif"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur le module d'export", "label": "interface"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur le site", "label": "interface"}
+{"text": "Signalement client : Retour à la version précédente de l'application nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de le site", "label": "bug_applicatif"}
+{"text": "Depuis hier, ralentissements importants constatés sur le module d'export", "label": "performance"}
+{"text": "Depuis hier, les pages de le service de facturation s'affichent après un long délai", "label": "performance"}
+{"text": "Depuis hier, retour à la version précédente de le site nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant le service de facturation", "label": "serveur"}
+{"text": "La facturation de le backend produit des erreurs", "label": "paiement"}
+{"text": "Le proxy bloque les appels sortants de le module d'export", "label": "reseau"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant l'application", "label": "serveur"}
+{"text": "Le proxy bloque les appels sortants de le service de facturation", "label": "reseau"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur l'application", "label": "interface"}
+{"text": "Urgent : La sauvegarde nocturne de le module d'export a échoué", "label": "stockage"}
+{"text": "Depuis hier, la base de la plateforme refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Les données de l'API sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans le backend", "label": "bug_applicatif"}
+{"text": "Retour à la version précédente de l'API nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : La base de la plateforme refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Le login sur le service de facturation est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Les données de le portail client sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans le portail client", "label": "bug_applicatif"}
+{"text": "Page blanche et erreur JavaScript sur l'API", "label": "interface"}
+{"text": "Signalement client : Le login sur l'API est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Les données de le backend sont introuvables en base", "label": "base_de_donnees"}
+{"text": "L'image Docker de le portail client ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de le site", "label": "reseau"}
+{"text": "Signalement client : Les sessions de le service de facturation se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Les données de le portail client sont introuvables en base", "label": "base_de_donnees"}
+{"text": "La facturation de le portail client produit des erreurs", "label": "paiement"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur le portail client", "label": "interface"}
+{"text": "Urgent : Un cas limite fait planter le calcul de le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : Les sessions de le site se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, les sessions de le site se déconnectent toutes seules", "label": "authentification"}
+{"text": "Appels réseau vers l'API bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Le login sur le site est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Signalement client : Ralentissements importants constatés sur la plateforme", "label": "performance"}
+{"text": "Urgent : Un cas limite fait planter le calcul de l'API", "label": "bug_applicatif"}
+{"text": "Signalement client : Les sessions de la plateforme se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, les factures de le service de facturation ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Le stockage de le service de facturation est presque plein", "label": "stockage"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur la plateforme", "label": "interface"}
+{"text": "Urgent : Les données de le module d'export sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Les images de l'application ne s'affichent plus", "label": "interface"}
+{"text": "Aucune réponse du serveur hébergeant le site", "label": "serveur"}
+{"text": "Urgent : Les pages de le portail client s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Le redémarrage de l'application boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur le module d'export", "label": "interface"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de la plateforme", "label": "bug_applicatif"}
+{"text": "Depuis hier, ralentissements importants constatés sur le service de facturation", "label": "performance"}
+{"text": "La base de l'application refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : La base de le module d'export refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : L'image Docker de le portail client ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, appels réseau vers la plateforme bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de l'application", "label": "reseau"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur le portail client", "label": "interface"}
+{"text": "Les données de le service de facturation sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, la sauvegarde nocturne de l'application a échoué", "label": "stockage"}
+{"text": "Urgent : Le proxy bloque les appels sortants de la plateforme", "label": "reseau"}
+{"text": "Urgent : Ralentissements importants constatés sur le portail client", "label": "performance"}
+{"text": "Urgent : Un cas limite fait planter le calcul de l'application", "label": "bug_applicatif"}
+{"text": "Urgent : Les factures de le portail client ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, appels réseau vers le portail client bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant le backend", "label": "serveur"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant le backend", "label": "serveur"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans la plateforme", "label": "bug_applicatif"}
+{"text": "Signalement client : La facturation de l'application produit des erreurs", "label": "paiement"}
+{"text": "Le proxy bloque les appels sortants de la plateforme", "label": "reseau"}
+{"text": "Les pages de le backend s'affichent après un long délai", "label": "performance"}
+{"text": "Ralentissements importants constatés sur le site", "label": "performance"}
+{"text": "Depuis hier, les pages de la plateforme s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Retour à la version précédente de le module d'export nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Le proxy bloque les appels sortants de le portail client", "label": "reseau"}
+{"text": "Urgent : Les pages de l'API s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Ralentissements importants constatés sur le service de facturation", "label": "performance"}
+{"text": "Depuis hier, le login sur le backend est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur l'application", "label": "interface"}
+{"text": "Depuis hier, la facturation de le service de facturation produit des erreurs", "label": "paiement"}
+{"text": "Urgent : Le stockage de l'API est presque plein", "label": "stockage"}
+{"text": "Le stockage de le portail client est presque plein", "label": "stockage"}
+{"text": "La sauvegarde nocturne de le portail client a échoué", "label": "stockage"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant le module d'export", "label": "serveur"}
+{"text": "Urgent : Appels réseau vers la plateforme bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Les pages de la plateforme s'affichent après un long délai", "label": "performance"}
+{"text": "Les factures de le module d'export ne sont pas générées", "label": "paiement"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans le site", "label": "bug_applicatif"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur le service de facturation", "label": "interface"}
+{"text": "Aucune réponse du serveur hébergeant le portail client", "label": "serveur"}
+{"text": "Depuis hier, ralentissements importants constatés sur la plateforme", "label": "performance"}
+{"text": "Depuis hier, ralentissements importants constatés sur le backend", "label": "performance"}
+{"text": "Urgent : Le redémarrage de le module d'export boucle indéfiniment", "label": "serveur"}
+{"text": "Un cas limite fait planter le calcul de le backend", "label": "bug_applicatif"}
+{"text": "Urgent : La base de le portail client refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Appels réseau vers la plateforme bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Le login sur l'application est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La facturation de le service de facturation produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Le stockage de le site est presque plein", "label": "stockage"}
+{"text": "Signalement client : Le login sur l'application est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, les sessions de le service de facturation se déconnectent toutes seules", "label": "authentification"}
+{"text": "Les sessions de la plateforme se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Le login sur la plateforme est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Retour à la version précédente de le site nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur le portail client", "label": "interface"}
+{"text": "Signalement client : Les factures de le site ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, la base de le service de facturation refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Les données de le module d'export sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de l'application", "label": "bug_applicatif"}
+{"text": "Urgent : Les données de la plateforme sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de le site", "label": "reseau"}
+{"text": "Ralentissements importants constatés sur le portail client", "label": "performance"}
+{"text": "Signalement client : La sauvegarde nocturne de le service de facturation a échoué", "label": "stockage"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de le service de facturation", "label": "reseau"}
+{"text": "Signalement client : Le login sur la plateforme est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La sauvegarde nocturne de le service de facturation a échoué", "label": "stockage"}
+{"text": "La sauvegarde nocturne de l'application a échoué", "label": "stockage"}
+{"text": "Page blanche et erreur JavaScript sur le backend", "label": "interface"}
+{"text": "Signalement client : La sauvegarde nocturne de le module d'export a échoué", "label": "stockage"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans l'API", "label": "bug_applicatif"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant le module d'export", "label": "serveur"}
+{"text": "Les images de la plateforme ne s'affichent plus", "label": "interface"}
+{"text": "Urgent : Ralentissements importants constatés sur le service de facturation", "label": "performance"}
+{"text": "Depuis hier, les pages de le module d'export s'affichent après un long délai", "label": "performance"}
+{"text": "Aucune réponse du serveur hébergeant le module d'export", "label": "serveur"}
+{"text": "Ralentissements importants constatés sur l'API", "label": "performance"}
+{"text": "Depuis hier, appels réseau vers le site bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Les données de le service de facturation sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans le module d'export", "label": "bug_applicatif"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans l'API", "label": "bug_applicatif"}
+{"text": "Le login sur le module d'export est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur l'API", "label": "interface"}
+{"text": "Retour à la version précédente de le backend nécessaire après le déploiement", "label": "deploiement"}
+{"text": "La sauvegarde nocturne de la plateforme a échoué", "label": "stockage"}
+{"text": "Les sessions de le module d'export se déconnectent toutes seules", "label": "authentification"}
+{"text": "Signalement client : La base de l'API refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Les factures de le portail client ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, le login sur le service de facturation est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans la plateforme", "label": "bug_applicatif"}
+{"text": "Les images de l'API ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Retour à la version précédente de le service de facturation nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Ralentissements importants constatés sur l'application", "label": "performance"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de le backend", "label": "reseau"}
+{"text": "Depuis hier, la facturation de la plateforme produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, retour à la version précédente de le backend nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Les pages de le portail client s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Les factures de l'application ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, le redémarrage de le portail client boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, les pages de le backend s'affichent après un long délai", "label": "performance"}
+{"text": "Un cas limite fait planter le calcul de l'API", "label": "bug_applicatif"}
+{"text": "Retour à la version précédente de l'application nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Ralentissements importants constatés sur la plateforme", "label": "performance"}
+{"text": "Le redémarrage de le service de facturation boucle indéfiniment", "label": "serveur"}
+{"text": "La sauvegarde nocturne de le backend a échoué", "label": "stockage"}
+{"text": "Signalement client : Le login sur le portail client est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, les factures de la plateforme ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Appels réseau vers la plateforme bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, la base de l'application refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Les pages de le module d'export s'affichent après un long délai", "label": "performance"}
+{"text": "Appels réseau vers l'application bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de la plateforme", "label": "reseau"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur la plateforme", "label": "interface"}
+{"text": "La sauvegarde nocturne de l'API a échoué", "label": "stockage"}
+{"text": "Urgent : La sauvegarde nocturne de l'API a échoué", "label": "stockage"}
+{"text": "Depuis hier, la facturation de le site produit des erreurs", "label": "paiement"}
+{"text": "Les factures de l'application ne sont pas générées", "label": "paiement"}
+{"text": "Le redémarrage de l'application boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : Les images de l'application ne s'affichent plus", "label": "interface"}
+{"text": "Ralentissements importants constatés sur le module d'export", "label": "performance"}
+{"text": "Depuis hier, les sessions de le module d'export se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, les images de le site ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, retour à la version précédente de le portail client nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Signalement client : Le login sur le backend est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, le stockage de le service de facturation est presque plein", "label": "stockage"}
+{"text": "Depuis hier, appels réseau vers l'API bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Ralentissements importants constatés sur le module d'export", "label": "performance"}
+{"text": "Depuis hier, la facturation de l'API produit des erreurs", "label": "paiement"}
+{"text": "Urgent : La sauvegarde nocturne de le site a échoué", "label": "stockage"}
+{"text": "Signalement client : La base de l'application refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : La base de la plateforme refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Le stockage de le portail client est presque plein", "label": "stockage"}
+{"text": "Signalement client : Le redémarrage de le backend boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, le stockage de le module d'export est presque plein", "label": "stockage"}
+{"text": "Les images de le portail client ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, les images de le backend ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : La sauvegarde nocturne de la plateforme a échoué", "label": "stockage"}
+{"text": "Depuis hier, le login sur l'application est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Signalement client : La base de le service de facturation refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, appels réseau vers l'application bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Les sessions de l'application se déconnectent toutes seules", "label": "authentification"}
+{"text": "Le login sur le portail client est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La base de le portail client refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Les images de l'API ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Appels réseau vers le module d'export bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : La facturation de la plateforme produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans le module d'export", "label": "bug_applicatif"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant le service de facturation", "label": "serveur"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant la plateforme", "label": "serveur"}
+{"text": "Urgent : Appels réseau vers le service de facturation bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, les factures de le backend ne sont pas générées", "label": "paiement"}
+{"text": "Urgent : Le redémarrage de le backend boucle indéfiniment", "label": "serveur"}
+{"text": "La facturation de l'application produit des erreurs", "label": "paiement"}
+{"text": "Urgent : L'image Docker de le service de facturation ne se construit pas", "label": "deploiement"}
+{"text": "Aucune réponse du serveur hébergeant l'API", "label": "serveur"}
+{"text": "Signalement client : Les pages de le site s'affichent après un long délai", "label": "performance"}
+{"text": "Depuis hier, retour à la version précédente de le service de facturation nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Le proxy bloque les appels sortants de l'API", "label": "reseau"}
+{"text": "Urgent : Retour à la version précédente de l'API nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les pages de le site s'affichent après un long délai", "label": "performance"}
+{"text": "Ralentissements importants constatés sur le backend", "label": "performance"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant l'API", "label": "serveur"}
+{"text": "Page blanche et erreur JavaScript sur le portail client", "label": "interface"}
+{"text": "Depuis hier, les sessions de la plateforme se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans le backend", "label": "bug_applicatif"}
+{"text": "Urgent : Le login sur le portail client est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Un cas limite fait planter le calcul de le site", "label": "bug_applicatif"}
+{"text": "Depuis hier, l'image Docker de l'application ne se construit pas", "label": "deploiement"}
+{"text": "Les sessions de l'API se déconnectent toutes seules", "label": "authentification"}
+{"text": "Le login sur le service de facturation est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, le stockage de l'application est presque plein", "label": "stockage"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant le site", "label": "serveur"}
+{"text": "Signalement client : L'image Docker de le module d'export ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Le proxy bloque les appels sortants de l'application", "label": "reseau"}
+{"text": "Urgent : Retour à la version précédente de le backend nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Signalement client : La facturation de la plateforme produit des erreurs", "label": "paiement"}
+{"text": "Un cas limite fait planter le calcul de le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : La facturation de le service de facturation produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, le login sur l'API est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La facturation de la plateforme produit des erreurs", "label": "paiement"}
+{"text": "L'image Docker de le service de facturation ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, la base de le module d'export refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Aucune réponse du serveur hébergeant l'application", "label": "serveur"}
+{"text": "Les images de le service de facturation ne s'affichent plus", "label": "interface"}
+{"text": "Le stockage de le service de facturation est presque plein", "label": "stockage"}
+{"text": "Un cas limite fait planter le calcul de l'application", "label": "bug_applicatif"}
+{"text": "L'image Docker de l'API ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : La base de l'API refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Le redémarrage de le service de facturation boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, la base de le site refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant la plateforme", "label": "serveur"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans l'API", "label": "bug_applicatif"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de le portail client", "label": "bug_applicatif"}
+{"text": "Les pages de le site s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Les pages de l'application s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Les données de le backend sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Les factures de l'API ne sont pas générées", "label": "paiement"}
+{"text": "Urgent : Le redémarrage de l'API boucle indéfiniment", "label": "serveur"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant le service de facturation", "label": "serveur"}
+{"text": "Le proxy bloque les appels sortants de l'application", "label": "reseau"}
+{"text": "Depuis hier, le redémarrage de la plateforme boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : Retour à la version précédente de le portail client nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, retour à la version précédente de l'application nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Retour à la version précédente de le module d'export nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur le site", "label": "interface"}
+{"text": "Ralentissements importants constatés sur l'application", "label": "performance"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans la plateforme", "label": "bug_applicatif"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : Les données de le backend sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : Appels réseau vers l'API bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant l'application", "label": "serveur"}
+{"text": "Depuis hier, les pages de le portail client s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Appels réseau vers l'application bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, ralentissements importants constatés sur le site", "label": "performance"}
+{"text": "L'image Docker de le module d'export ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Les pages de le service de facturation s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de le module d'export", "label": "reseau"}
+{"text": "Depuis hier, les pages de le site s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Le proxy bloque les appels sortants de le portail client", "label": "reseau"}
+{"text": "Le login sur l'API est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La facturation de le module d'export produit des erreurs", "label": "paiement"}
+{"text": "Le redémarrage de le module d'export boucle indéfiniment", "label": "serveur"}
+{"text": "Les images de le backend ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : La sauvegarde nocturne de le portail client a échoué", "label": "stockage"}
+{"text": "Urgent : Le stockage de le portail client est presque plein", "label": "stockage"}
+{"text": "Les données de la plateforme sont introuvables en base", "label": "base_de_donnees"}
+{"text": "La facturation de le site produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, la facturation de le portail client produit des erreurs", "label": "paiement"}
+{"text": "Urgent : La sauvegarde nocturne de la plateforme a échoué", "label": "stockage"}
+{"text": "Signalement client : Les pages de le service de facturation s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de le backend", "label": "bug_applicatif"}
+{"text": "L'image Docker de le backend ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, appels réseau vers le backend bloqués par le pare-feu", "label": "reseau"}
+{"text": "L'image Docker de la plateforme ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur la plateforme", "label": "interface"}
+{"text": "Signalement client : Les sessions de le backend se déconnectent toutes seules", "label": "authentification"}
+{"text": "Signalement client : Ralentissements importants constatés sur le site", "label": "performance"}
+{"text": "Le redémarrage de la plateforme boucle indéfiniment", "label": "serveur"}
+{"text": "Signalement client : Ralentissements importants constatés sur le backend", "label": "performance"}
+{"text": "Signalement client : La facturation de le module d'export produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de le module d'export", "label": "bug_applicatif"}
+{"text": "Urgent : Les factures de le site ne sont pas générées", "label": "paiement"}
+{"text": "Les sessions de le site se déconnectent toutes seules", "label": "authentification"}
+{"text": "Un cas limite fait planter le calcul de le module d'export", "label": "bug_applicatif"}
+{"text": "Urgent : Le stockage de le module d'export est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les pages de l'API s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Les factures de le service de facturation ne sont pas générées", "label": "paiement"}
+{"text": "La base de le service de facturation refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de le module d'export", "label": "bug_applicatif"}
+{"text": "Urgent : La sauvegarde nocturne de le service de facturation a échoué", "label": "stockage"}
+{"text": "Signalement client : Retour à la version précédente de le portail client nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les sessions de l'API se déconnectent toutes seules", "label": "authentification"}
+{"text": "Les sessions de le backend se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant le module d'export", "label": "serveur"}
+{"text": "Signalement client : Le stockage de l'application est presque plein", "label": "stockage"}
+{"text": "Urgent : L'image Docker de l'application ne se construit pas", "label": "deploiement"}
+{"text": "Signalement client : Le redémarrage de l'API boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : La sauvegarde nocturne de le backend a échoué", "label": "stockage"}
+{"text": "Le redémarrage de le portail client boucle indéfiniment", "label": "serveur"}
+{"text": "Le redémarrage de l'API boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant l'API", "label": "serveur"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de l'API", "label": "bug_applicatif"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans la plateforme", "label": "bug_applicatif"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans le backend", "label": "bug_applicatif"}
+{"text": "Le proxy bloque les appels sortants de l'API", "label": "reseau"}
+{"text": "Depuis hier, la base de le portail client refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Les factures de l'API ne sont pas générées", "label": "paiement"}
+{"text": "Aucune réponse du serveur hébergeant la plateforme", "label": "serveur"}
+{"text": "Urgent : L'image Docker de le backend ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Les données de l'application sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, les données de l'API sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Les sessions de la plateforme se déconnectent toutes seules", "label": "authentification"}
+{"text": "Signalement client : L'image Docker de l'API ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, les factures de le module d'export ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant le backend", "label": "serveur"}
+{"text": "Urgent : La facturation de le portail client produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans le service de facturation", "label": "bug_applicatif"}
+{"text": "Depuis hier, les données de le portail client sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Le stockage de le site est presque plein", "label": "stockage"}
+{"text": "Le stockage de l'application est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les pages de le module d'export s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Retour à la version précédente de l'application nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans l'API", "label": "bug_applicatif"}
+{"text": "Signalement client : L'image Docker de le site ne se construit pas", "label": "deploiement"}
+{"text": "Signalement client : Appels réseau vers le site bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant la plateforme", "label": "serveur"}
+{"text": "Signalement client : L'image Docker de le backend ne se construit pas", "label": "deploiement"}
+{"text": "L'image Docker de l'application ne se construit pas", "label": "deploiement"}
+{"text": "Retour à la version précédente de le service de facturation nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Le stockage de l'application est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les factures de le module d'export ne sont pas générées", "label": "paiement"}
+{"text": "Les pages de le service de facturation s'affichent après un long délai", "label": "performance"}
+{"text": "L'image Docker de le site ne se construit pas", "label": "deploiement"}
+{"text": "Les images de le site ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, la sauvegarde nocturne de le portail client a échoué", "label": "stockage"}
+{"text": "Depuis hier, la sauvegarde nocturne de le module d'export a échoué", "label": "stockage"}
+{"text": "Signalement client : Les factures de le portail client ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Les sessions de le portail client se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Le login sur l'API est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Le stockage de le site est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les sessions de l'application se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, le stockage de le backend est presque plein", "label": "stockage"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de le module d'export", "label": "reseau"}
+{"text": "Les données de l'API sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur l'API", "label": "interface"}
+{"text": "Depuis hier, les images de le service de facturation ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : La sauvegarde nocturne de le site a échoué", "label": "stockage"}
+{"text": "Urgent : Les pages de le backend s'affichent après un long délai", "label": "performance"}
+{"text": "Depuis hier, l'image Docker de le service de facturation ne se construit pas", "label": "deploiement"}
+{"text": "Signalement client : L'image Docker de la plateforme ne se construit pas", "label": "deploiement"}
+{"text": "Depuis hier, le login sur le site est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant l'API", "label": "serveur"}
+{"text": "Depuis hier, les factures de le site ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, la sauvegarde nocturne de le site a échoué", "label": "stockage"}
+{"text": "Urgent : Les images de la plateforme ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, le stockage de la plateforme est presque plein", "label": "stockage"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur le backend", "label": "interface"}
+{"text": "Signalement client : Appels réseau vers le portail client bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, le login sur le portail client est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, les paniers de plusieurs clients sont mélangés dans le site", "label": "bug_applicatif"}
+{"text": "Les données de l'application sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, la facturation de le module d'export produit des erreurs", "label": "paiement"}
+{"text": "Les factures de le backend ne sont pas générées", "label": "paiement"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans l'application", "label": "bug_applicatif"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur le site", "label": "interface"}
+{"text": "Urgent : La base de l'application refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Le redémarrage de le module d'export boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : La facturation de l'application produit des erreurs", "label": "paiement"}
+{"text": "Ralentissements importants constatés sur le service de facturation", "label": "performance"}
+{"text": "Appels réseau vers le module d'export bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Retour à la version précédente de l'API nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, la sauvegarde nocturne de la plateforme a échoué", "label": "stockage"}
+{"text": "Les factures de le service de facturation ne sont pas générées", "label": "paiement"}
+{"text": "Page blanche et erreur JavaScript sur l'application", "label": "interface"}
+{"text": "Les factures de l'API ne sont pas générées", "label": "paiement"}
+{"text": "Urgent : La base de le site refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, les données de le module d'export sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans le site", "label": "bug_applicatif"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant le site", "label": "serveur"}
+{"text": "Urgent : Le proxy bloque les appels sortants de le service de facturation", "label": "reseau"}
+{"text": "Depuis hier, les données de le site sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Aucune réponse du serveur hébergeant le service de facturation", "label": "serveur"}
+{"text": "Depuis hier, retour à la version précédente de le module d'export nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Signalement client : Aucune réponse du serveur hébergeant le portail client", "label": "serveur"}
+{"text": "Depuis hier, le redémarrage de le service de facturation boucle indéfiniment", "label": "serveur"}
+{"text": "Le login sur le site est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Urgent : Retour à la version précédente de le service de facturation nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les images de l'API ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, les données de la plateforme sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Le stockage de le module d'export est presque plein", "label": "stockage"}
+{"text": "Signalement client : La base de le portail client refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "La base de le module d'export refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, les factures de l'API ne sont pas générées", "label": "paiement"}
+{"text": "Urgent : Les sessions de le site se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : L'image Docker de le site ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Les sessions de le portail client se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : La facturation de le site produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de le portail client", "label": "reseau"}
+{"text": "Depuis hier, le redémarrage de l'application boucle indéfiniment", "label": "serveur"}
+{"text": "La base de le backend refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : Le redémarrage de la plateforme boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, ralentissements importants constatés sur le portail client", "label": "performance"}
+{"text": "Depuis hier, retour à la version précédente de la plateforme nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les pages de la plateforme s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : La facturation de le site produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : La facturation de le backend produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Le stockage de le module d'export est presque plein", "label": "stockage"}
+{"text": "Depuis hier, l'image Docker de le backend ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : Le login sur le backend est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Urgent : Appels réseau vers le module d'export bloqués par le pare-feu", "label": "reseau"}
+{"text": "Page blanche et erreur JavaScript sur le module d'export", "label": "interface"}
+{"text": "Urgent : Le redémarrage de le portail client boucle indéfiniment", "label": "serveur"}
+{"text": "Le redémarrage de le backend boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : Le redémarrage de le site boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de le backend", "label": "reseau"}
+{"text": "Urgent : La facturation de le backend produit des erreurs", "label": "paiement"}
+{"text": "Urgent : La base de le backend refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Urgent : La base de le module d'export refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Signalement client : Page blanche et erreur JavaScript sur le module d'export", "label": "interface"}
+{"text": "Urgent : Le redémarrage de le service de facturation boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de l'API", "label": "reseau"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans le module d'export", "label": "bug_applicatif"}
+{"text": "Depuis hier, les sessions de l'application se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, le redémarrage de le backend boucle indéfiniment", "label": "serveur"}
+{"text": "Depuis hier, les pages de l'API s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : La sauvegarde nocturne de le portail client a échoué", "label": "stockage"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de l'API", "label": "reseau"}
+{"text": "Depuis hier, les sessions de l'API se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Aucune réponse du serveur hébergeant le portail client", "label": "serveur"}
+{"text": "Signalement client : Les images de la plateforme ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : La sauvegarde nocturne de le backend a échoué", "label": "stockage"}
+{"text": "Signalement client : Un cas limite fait planter le calcul de l'application", "label": "bug_applicatif"}
+{"text": "Signalement client : Retour à la version précédente de la plateforme nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Le proxy bloque les appels sortants de le site", "label": "reseau"}
+{"text": "Urgent : Les factures de le module d'export ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Le stockage de l'API est presque plein", "label": "stockage"}
+{"text": "Depuis hier, les images de l'API ne s'affichent plus", "label": "interface"}
+{"text": "Page blanche et erreur JavaScript sur le service de facturation", "label": "interface"}
+{"text": "Urgent : Les images de le backend ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Les données de l'application sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : La base de le site refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, les images de l'application ne s'affichent plus", "label": "interface"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de l'application", "label": "reseau"}
+{"text": "Urgent : Les sessions de le module d'export se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Retour à la version précédente de la plateforme nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Urgent : Les sessions de le service de facturation se déconnectent toutes seules", "label": "authentification"}
+{"text": "Le login sur le backend est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, un cas limite fait planter le calcul de le service de facturation", "label": "bug_applicatif"}
+{"text": "Urgent : Appels réseau vers le backend bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans le site", "label": "bug_applicatif"}
+{"text": "Depuis hier, l'image Docker de la plateforme ne se construit pas", "label": "deploiement"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans l'application", "label": "bug_applicatif"}
+{"text": "Urgent : L'image Docker de l'API ne se construit pas", "label": "deploiement"}
+{"text": "Urgent : La facturation de l'API produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Les factures de le backend ne sont pas générées", "label": "paiement"}
+{"text": "Signalement client : Appels réseau vers l'application bloqués par le pare-feu", "label": "reseau"}
+{"text": "Depuis hier, le stockage de l'API est presque plein", "label": "stockage"}
+{"text": "Depuis hier, les données de l'application sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Depuis hier, la sauvegarde nocturne de le service de facturation a échoué", "label": "stockage"}
+{"text": "Appels réseau vers le portail client bloqués par le pare-feu", "label": "reseau"}
+{"text": "Le stockage de l'API est presque plein", "label": "stockage"}
+{"text": "Signalement client : Les factures de la plateforme ne sont pas générées", "label": "paiement"}
+{"text": "Depuis hier, l'image Docker de le portail client ne se construit pas", "label": "deploiement"}
+{"text": "Les sessions de l'application se déconnectent toutes seules", "label": "authentification"}
+{"text": "Depuis hier, le stockage de le site est presque plein", "label": "stockage"}
+{"text": "Signalement client : Le redémarrage de le portail client boucle indéfiniment", "label": "serveur"}
+{"text": "Les données de le site sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Le proxy bloque les appels sortants de le service de facturation", "label": "reseau"}
+{"text": "Urgent : Les images de le service de facturation ne s'affichent plus", "label": "interface"}
+{"text": "Appels réseau vers le backend bloqués par le pare-feu", "label": "reseau"}
+{"text": "Signalement client : La facturation de le portail client produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, la facturation de l'application produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : La facturation de l'API produit des erreurs", "label": "paiement"}
+{"text": "Signalement client : Les données de le portail client sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Le redémarrage de l'application boucle indéfiniment", "label": "serveur"}
+{"text": "Appels réseau vers le site bloqués par le pare-feu", "label": "reseau"}
+{"text": "Urgent : Les images de le site ne s'affichent plus", "label": "interface"}
+{"text": "Urgent : Les données de le site sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Signalement client : Les paniers de plusieurs clients sont mélangés dans le backend", "label": "bug_applicatif"}
+{"text": "Depuis hier, le login sur le module d'export est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "La sauvegarde nocturne de le site a échoué", "label": "stockage"}
+{"text": "Les pages de l'API s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Les images de le site ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant le portail client", "label": "serveur"}
+{"text": "Depuis hier, aucune réponse du serveur hébergeant l'application", "label": "serveur"}
+{"text": "Depuis hier, les sessions de le portail client se déconnectent toutes seules", "label": "authentification"}
+{"text": "Urgent : Les paniers de plusieurs clients sont mélangés dans le portail client", "label": "bug_applicatif"}
+{"text": "Un cas limite fait planter le calcul de la plateforme", "label": "bug_applicatif"}
+{"text": "Urgent : La base de le service de facturation refuse de nouvelles connexions", "label": "base_de_donnees"}
+{"text": "Depuis hier, les pages de l'application s'affichent après un long délai", "label": "performance"}
+{"text": "Le proxy bloque les appels sortants de le site", "label": "reseau"}
+{"text": "Les paniers de plusieurs clients sont mélangés dans le portail client", "label": "bug_applicatif"}
+{"text": "Urgent : La facturation de le service de facturation produit des erreurs", "label": "paiement"}
+{"text": "Depuis hier, retour à la version précédente de l'API nécessaire après le déploiement", "label": "deploiement"}
+{"text": "Depuis hier, le proxy bloque les appels sortants de la plateforme", "label": "reseau"}
+{"text": "Urgent : La sauvegarde nocturne de l'application a échoué", "label": "stockage"}
+{"text": "Urgent : L'image Docker de le portail client ne se construit pas", "label": "deploiement"}
+{"text": "Le login sur la plateforme est refusé malgré le bon mot de passe", "label": "authentification"}
+{"text": "Depuis hier, le redémarrage de le site boucle indéfiniment", "label": "serveur"}
+{"text": "Signalement client : Les pages de le backend s'affichent après un long délai", "label": "performance"}
+{"text": "Signalement client : Le redémarrage de le site boucle indéfiniment", "label": "serveur"}
+{"text": "Urgent : Page blanche et erreur JavaScript sur le service de facturation", "label": "interface"}
+{"text": "Les pages de la plateforme s'affichent après un long délai", "label": "performance"}
+{"text": "Urgent : Les données de le service de facturation sont introuvables en base", "label": "base_de_donnees"}
+{"text": "Urgent : Ralentissements importants constatés sur le site", "label": "performance"}
+{"text": "Urgent : Le stockage de la plateforme est presque plein", "label": "stockage"}
+{"text": "Depuis hier, les images de la plateforme ne s'affichent plus", "label": "interface"}
+{"text": "Depuis hier, page blanche et erreur JavaScript sur le service de facturation", "label": "interface"}

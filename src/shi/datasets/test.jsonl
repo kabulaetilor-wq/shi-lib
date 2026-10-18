@@ -1,0 +1,640 @@
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur le site", "label": "authentification"}
+{"text": "Signalement client : Les requêtes vers le backend mettent plusieurs secondes", "label": "performance"}
+{"text": "Quota de stockage dépassé pour le portail client", "label": "stockage"}
+{"text": "Une dépendance manquante empêche le build de la plateforme", "label": "deploiement"}
+{"text": "Signalement client : Transactions bloquées en attente sur le backend", "label": "paiement"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de l'API", "label": "interface"}
+{"text": "Erreur d'écriture sur le système de fichiers de le service de facturation", "label": "stockage"}
+{"text": "Urgent : Code 502 renvoyé par le service de facturation", "label": "serveur"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de le portail client", "label": "deploiement"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de le portail client", "label": "reseau"}
+{"text": "Signalement client : Le menu de le service de facturation est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Le menu de l'API est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, le résultat affiché par le service de facturation ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Les requêtes vers le portail client mettent plusieurs secondes", "label": "performance"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de l'API", "label": "interface"}
+{"text": "Le pool de connexions PostgreSQL de le portail client est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Le jeton JWT de le portail client a expiré trop tôt", "label": "authentification"}
+{"text": "La traduction est incorrecte dans l'interface de le backend", "label": "interface"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de le backend", "label": "stockage"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de le module d'export", "label": "deploiement"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur la plateforme", "label": "authentification"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de le site", "label": "reseau"}
+{"text": "Forte consommation de mémoire sur l'API", "label": "performance"}
+{"text": "Le jeton JWT de le portail client a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Erreur TLS lors de l'appel à le service de facturation", "label": "reseau"}
+{"text": "Forte consommation de mémoire sur le service de facturation", "label": "performance"}
+{"text": "Erreur TLS lors de l'appel à le module d'export", "label": "reseau"}
+{"text": "Forte consommation de mémoire sur le backend", "label": "performance"}
+{"text": "Urgent : Le site est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Le réseau est coupé entre les datacenters de le service de facturation", "label": "reseau"}
+{"text": "Signalement client : Traceback Python dans les journaux de le site", "label": "bug_applicatif"}
+{"text": "Transactions bloquées en attente sur le service de facturation", "label": "paiement"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de le site", "label": "reseau"}
+{"text": "Une dépendance manquante empêche le build de l'API", "label": "deploiement"}
+{"text": "Erreur TLS lors de l'appel à l'API", "label": "reseau"}
+{"text": "Urgent : La passerelle de paiement de le backend renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Transactions bloquées en attente sur l'API", "label": "paiement"}
+{"text": "Code 502 renvoyé par la plateforme", "label": "serveur"}
+{"text": "Depuis hier, le résultat affiché par le backend ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Le script de livraison de le portail client s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Le résultat affiché par l'API ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Le jeton JWT de le module d'export a expiré trop tôt", "label": "authentification"}
+{"text": "Forte consommation de mémoire sur le module d'export", "label": "performance"}
+{"text": "Urgent : Quota de stockage dépassé pour la plateforme", "label": "stockage"}
+{"text": "Urgent : Le module d'export est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Le résultat affiché par le site ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : La plateforme est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : La passerelle de paiement de la plateforme renvoie une erreur", "label": "paiement"}
+{"text": "Traceback Python dans les journaux de le backend", "label": "bug_applicatif"}
+{"text": "Signalement client : Code 502 renvoyé par le portail client", "label": "serveur"}
+{"text": "Une dépendance manquante empêche le build de le site", "label": "deploiement"}
+{"text": "Le jeton JWT de le site a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de l'API", "label": "reseau"}
+{"text": "Signalement client : Le jeton JWT de le backend a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de la plateforme", "label": "interface"}
+{"text": "Le service de facturation est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, quota de stockage dépassé pour la plateforme", "label": "stockage"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de l'application", "label": "deploiement"}
+{"text": "Depuis hier, quota de stockage dépassé pour le service de facturation", "label": "stockage"}
+{"text": "Erreur d'écriture sur le système de fichiers de le portail client", "label": "stockage"}
+{"text": "Le script de livraison de le site s'interrompt en route", "label": "deploiement"}
+{"text": "La traduction est incorrecte dans l'interface de le portail client", "label": "interface"}
+{"text": "Signalement client : Code 502 renvoyé par la plateforme", "label": "serveur"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de l'API", "label": "reseau"}
+{"text": "Code 502 renvoyé par l'application", "label": "serveur"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de l'application est épuisé", "label": "base_de_donnees"}
+{"text": "Transactions bloquées en attente sur le site", "label": "paiement"}
+{"text": "Urgent : Le menu de le module d'export est illisible sur petit écran", "label": "interface"}
+{"text": "Erreur TLS lors de l'appel à le backend", "label": "reseau"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de le site", "label": "stockage"}
+{"text": "Depuis hier, transactions bloquées en attente sur le portail client", "label": "paiement"}
+{"text": "Depuis hier, quota de stockage dépassé pour l'API", "label": "stockage"}
+{"text": "Le pool de connexions PostgreSQL de le backend est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à le service de facturation", "label": "reseau"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de l'API", "label": "base_de_donnees"}
+{"text": "Depuis hier, le résultat affiché par le portail client ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Forte consommation de mémoire sur l'application", "label": "performance"}
+{"text": "Signalement client : Code 502 renvoyé par le backend", "label": "serveur"}
+{"text": "Depuis hier, transactions bloquées en attente sur la plateforme", "label": "paiement"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de le backend", "label": "stockage"}
+{"text": "Depuis hier, le script de livraison de l'API s'interrompt en route", "label": "deploiement"}
+{"text": "La traduction est incorrecte dans l'interface de le module d'export", "label": "interface"}
+{"text": "Transactions bloquées en attente sur la plateforme", "label": "paiement"}
+{"text": "Urgent : Transactions bloquées en attente sur l'application", "label": "paiement"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur le module d'export", "label": "authentification"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de le portail client", "label": "base_de_donnees"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de la plateforme", "label": "reseau"}
+{"text": "Depuis hier, le script de livraison de le site s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Forte consommation de mémoire sur la plateforme", "label": "performance"}
+{"text": "Urgent : Traceback Python dans les journaux de la plateforme", "label": "bug_applicatif"}
+{"text": "Depuis hier, le script de livraison de le portail client s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Transactions bloquées en attente sur la plateforme", "label": "paiement"}
+{"text": "Depuis hier, quota de stockage dépassé pour le site", "label": "stockage"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de le site", "label": "interface"}
+{"text": "Depuis hier, forte consommation de mémoire sur l'API", "label": "performance"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de le site", "label": "interface"}
+{"text": "Urgent : Forte consommation de mémoire sur le backend", "label": "performance"}
+{"text": "Signalement client : Traceback Python dans les journaux de l'API", "label": "bug_applicatif"}
+{"text": "Code 502 renvoyé par le module d'export", "label": "serveur"}
+{"text": "Urgent : L'API est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : Forte consommation de mémoire sur la plateforme", "label": "performance"}
+{"text": "La passerelle de paiement de le module d'export renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de le service de facturation", "label": "reseau"}
+{"text": "Transactions bloquées en attente sur l'application", "label": "paiement"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de le module d'export", "label": "stockage"}
+{"text": "Depuis hier, le résultat affiché par l'application ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de le site", "label": "stockage"}
+{"text": "Le réseau est coupé entre les datacenters de l'application", "label": "reseau"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur le portail client", "label": "authentification"}
+{"text": "Urgent : Le menu de le service de facturation est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le jeton JWT de l'application a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Erreur TLS lors de l'appel à la plateforme", "label": "reseau"}
+{"text": "Depuis hier, le menu de le module d'export est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de la plateforme", "label": "stockage"}
+{"text": "Urgent : Le script de livraison de l'application s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de l'application", "label": "base_de_donnees"}
+{"text": "Traceback Python dans les journaux de l'API", "label": "bug_applicatif"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de le portail client", "label": "interface"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de le module d'export", "label": "reseau"}
+{"text": "Les requêtes vers le site mettent plusieurs secondes", "label": "performance"}
+{"text": "Le module d'export est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, code 502 renvoyé par l'application", "label": "serveur"}
+{"text": "Signalement client : Quota de stockage dépassé pour le site", "label": "stockage"}
+{"text": "Urgent : Transactions bloquées en attente sur le portail client", "label": "paiement"}
+{"text": "La connexion SSO ne fonctionne plus sur le site", "label": "authentification"}
+{"text": "Le résultat affiché par le module d'export ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Le jeton JWT de la plateforme a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Quota de stockage dépassé pour le portail client", "label": "stockage"}
+{"text": "Le site est indisponible depuis ce matin", "label": "serveur"}
+{"text": "La passerelle de paiement de le service de facturation renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de la plateforme est épuisé", "label": "base_de_donnees"}
+{"text": "Quota de stockage dépassé pour le service de facturation", "label": "stockage"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de l'application", "label": "reseau"}
+{"text": "Urgent : Le script de livraison de le module d'export s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de le site", "label": "interface"}
+{"text": "Signalement client : La passerelle de paiement de le backend renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, transactions bloquées en attente sur le module d'export", "label": "paiement"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de le portail client", "label": "interface"}
+{"text": "La passerelle de paiement de l'API renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : La passerelle de paiement de le module d'export renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de l'API", "label": "deploiement"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur le portail client", "label": "authentification"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de l'API", "label": "stockage"}
+{"text": "Urgent : Code 502 renvoyé par la plateforme", "label": "serveur"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur le site", "label": "authentification"}
+{"text": "Urgent : Le résultat affiché par le service de facturation ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, l'application est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de l'application", "label": "base_de_donnees"}
+{"text": "Depuis hier, forte consommation de mémoire sur le portail client", "label": "performance"}
+{"text": "Depuis hier, code 502 renvoyé par l'API", "label": "serveur"}
+{"text": "Les requêtes vers le service de facturation mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de la plateforme", "label": "base_de_donnees"}
+{"text": "Le menu de l'application est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Une dépendance manquante empêche le build de le site", "label": "deploiement"}
+{"text": "Urgent : Quota de stockage dépassé pour l'application", "label": "stockage"}
+{"text": "Signalement client : Forte consommation de mémoire sur l'application", "label": "performance"}
+{"text": "Urgent : Une dépendance manquante empêche le build de la plateforme", "label": "deploiement"}
+{"text": "Depuis hier, quota de stockage dépassé pour l'application", "label": "stockage"}
+{"text": "Erreur d'écriture sur le système de fichiers de le site", "label": "stockage"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de le module d'export", "label": "interface"}
+{"text": "Une dépendance manquante empêche le build de le module d'export", "label": "deploiement"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de la plateforme", "label": "interface"}
+{"text": "Urgent : Traceback Python dans les journaux de l'API", "label": "bug_applicatif"}
+{"text": "Urgent : Traceback Python dans les journaux de le service de facturation", "label": "bug_applicatif"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de la plateforme", "label": "interface"}
+{"text": "Urgent : Traceback Python dans les journaux de le portail client", "label": "bug_applicatif"}
+{"text": "Le pool de connexions PostgreSQL de l'application est épuisé", "label": "base_de_donnees"}
+{"text": "Les requêtes vers la plateforme mettent plusieurs secondes", "label": "performance"}
+{"text": "Traceback Python dans les journaux de le service de facturation", "label": "bug_applicatif"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de la plateforme est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de le portail client est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur le module d'export", "label": "authentification"}
+{"text": "Depuis hier, les requêtes vers l'application mettent plusieurs secondes", "label": "performance"}
+{"text": "Urgent : Transactions bloquées en attente sur le module d'export", "label": "paiement"}
+{"text": "La connexion SSO ne fonctionne plus sur le module d'export", "label": "authentification"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de le service de facturation", "label": "interface"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de la plateforme", "label": "base_de_donnees"}
+{"text": "Depuis hier, la passerelle de paiement de le backend renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, transactions bloquées en attente sur le service de facturation", "label": "paiement"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de le service de facturation", "label": "base_de_donnees"}
+{"text": "Signalement client : Les requêtes vers l'application mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à le backend", "label": "reseau"}
+{"text": "Urgent : Une dépendance manquante empêche le build de l'API", "label": "deploiement"}
+{"text": "La connexion SSO ne fonctionne plus sur le backend", "label": "authentification"}
+{"text": "Quota de stockage dépassé pour l'application", "label": "stockage"}
+{"text": "Signalement client : Traceback Python dans les journaux de le portail client", "label": "bug_applicatif"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de l'application", "label": "stockage"}
+{"text": "Signalement client : La plateforme est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Quota de stockage dépassé pour le module d'export", "label": "stockage"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de le backend", "label": "base_de_donnees"}
+{"text": "Depuis hier, quota de stockage dépassé pour le portail client", "label": "stockage"}
+{"text": "Depuis hier, le jeton JWT de le service de facturation a expiré trop tôt", "label": "authentification"}
+{"text": "La connexion SSO ne fonctionne plus sur le portail client", "label": "authentification"}
+{"text": "Erreur d'intégrité sur la table des commandes de l'API", "label": "base_de_donnees"}
+{"text": "Depuis hier, le menu de le service de facturation est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le script de livraison de le site s'interrompt en route", "label": "deploiement"}
+{"text": "Le script de livraison de la plateforme s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Code 502 renvoyé par le site", "label": "serveur"}
+{"text": "Code 502 renvoyé par le backend", "label": "serveur"}
+{"text": "Erreur d'écriture sur le système de fichiers de la plateforme", "label": "stockage"}
+{"text": "Urgent : Le résultat affiché par le module d'export ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Traceback Python dans les journaux de le site", "label": "bug_applicatif"}
+{"text": "Erreur d'intégrité sur la table des commandes de le portail client", "label": "base_de_donnees"}
+{"text": "Depuis hier, les requêtes vers le backend mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Les requêtes vers le site mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Quota de stockage dépassé pour le backend", "label": "stockage"}
+{"text": "Le script de livraison de l'application s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Forte consommation de mémoire sur le site", "label": "performance"}
+{"text": "Depuis hier, le jeton JWT de le module d'export a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Le menu de la plateforme est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : La passerelle de paiement de le portail client renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de le module d'export", "label": "base_de_donnees"}
+{"text": "Signalement client : Le résultat affiché par l'application ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Une dépendance manquante empêche le build de le module d'export", "label": "deploiement"}
+{"text": "Une dépendance manquante empêche le build de le service de facturation", "label": "deploiement"}
+{"text": "Depuis hier, les requêtes vers la plateforme mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à l'application", "label": "reseau"}
+{"text": "Signalement client : Quota de stockage dépassé pour la plateforme", "label": "stockage"}
+{"text": "Le menu de le service de facturation est illisible sur petit écran", "label": "interface"}
+{"text": "Code 502 renvoyé par le portail client", "label": "serveur"}
+{"text": "Urgent : Le portail client est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : Forte consommation de mémoire sur l'API", "label": "performance"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de le module d'export est épuisé", "label": "base_de_donnees"}
+{"text": "Le menu de le module d'export est illisible sur petit écran", "label": "interface"}
+{"text": "Le script de livraison de le service de facturation s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de le site", "label": "base_de_donnees"}
+{"text": "Urgent : Erreur TLS lors de l'appel à le portail client", "label": "reseau"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de l'API", "label": "stockage"}
+{"text": "Erreur d'intégrité sur la table des commandes de la plateforme", "label": "base_de_donnees"}
+{"text": "Depuis hier, code 502 renvoyé par le portail client", "label": "serveur"}
+{"text": "Depuis hier, la passerelle de paiement de le service de facturation renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Le service de facturation est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Une dépendance manquante empêche le build de le backend", "label": "deploiement"}
+{"text": "Urgent : Code 502 renvoyé par le backend", "label": "serveur"}
+{"text": "Depuis hier, la passerelle de paiement de la plateforme renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de la plateforme", "label": "reseau"}
+{"text": "Depuis hier, le backend est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, le résultat affiché par la plateforme ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, forte consommation de mémoire sur le module d'export", "label": "performance"}
+{"text": "Les requêtes vers le backend mettent plusieurs secondes", "label": "performance"}
+{"text": "La connexion SSO ne fonctionne plus sur le service de facturation", "label": "authentification"}
+{"text": "Le résultat affiché par l'API ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, la passerelle de paiement de le site renvoie une erreur", "label": "paiement"}
+{"text": "La connexion SSO ne fonctionne plus sur l'API", "label": "authentification"}
+{"text": "Urgent : Les requêtes vers le site mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de le portail client", "label": "reseau"}
+{"text": "Signalement client : Quota de stockage dépassé pour le portail client", "label": "stockage"}
+{"text": "Depuis hier, le service de facturation est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de l'application est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de le backend", "label": "reseau"}
+{"text": "Le réseau est coupé entre les datacenters de le module d'export", "label": "reseau"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de le backend", "label": "base_de_donnees"}
+{"text": "Le menu de le backend est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Le script de livraison de le site s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de l'application", "label": "stockage"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de l'application", "label": "deploiement"}
+{"text": "Depuis hier, traceback Python dans les journaux de la plateforme", "label": "bug_applicatif"}
+{"text": "Signalement client : Traceback Python dans les journaux de l'application", "label": "bug_applicatif"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de la plateforme", "label": "reseau"}
+{"text": "Depuis hier, code 502 renvoyé par le site", "label": "serveur"}
+{"text": "Signalement client : Le résultat affiché par le site ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Le script de livraison de le backend s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à le backend", "label": "reseau"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de le module d'export", "label": "base_de_donnees"}
+{"text": "Erreur d'écriture sur le système de fichiers de l'application", "label": "stockage"}
+{"text": "Le script de livraison de le portail client s'interrompt en route", "label": "deploiement"}
+{"text": "Quota de stockage dépassé pour le site", "label": "stockage"}
+{"text": "Urgent : Les requêtes vers le backend mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à la plateforme", "label": "reseau"}
+{"text": "Signalement client : Forte consommation de mémoire sur le backend", "label": "performance"}
+{"text": "Urgent : Le résultat affiché par le backend ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Erreur d'intégrité sur la table des commandes de le backend", "label": "base_de_donnees"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de le service de facturation est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, le script de livraison de l'application s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Traceback Python dans les journaux de le module d'export", "label": "bug_applicatif"}
+{"text": "Erreur d'intégrité sur la table des commandes de le service de facturation", "label": "base_de_donnees"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à l'API", "label": "reseau"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de le backend", "label": "stockage"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de le backend est épuisé", "label": "base_de_donnees"}
+{"text": "La traduction est incorrecte dans l'interface de le site", "label": "interface"}
+{"text": "Transactions bloquées en attente sur l'API", "label": "paiement"}
+{"text": "Code 502 renvoyé par l'API", "label": "serveur"}
+{"text": "Signalement client : Le script de livraison de l'application s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Forte consommation de mémoire sur le module d'export", "label": "performance"}
+{"text": "La traduction est incorrecte dans l'interface de le service de facturation", "label": "interface"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à le service de facturation", "label": "reseau"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur l'application", "label": "authentification"}
+{"text": "Urgent : Les requêtes vers le portail client mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de le module d'export", "label": "interface"}
+{"text": "Depuis hier, le script de livraison de le service de facturation s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : La passerelle de paiement de le service de facturation renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Le jeton JWT de le service de facturation a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, le site est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Le script de livraison de le backend s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Le backend est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, le module d'export est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Code 502 renvoyé par le site", "label": "serveur"}
+{"text": "Urgent : Le jeton JWT de le service de facturation a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à le module d'export", "label": "reseau"}
+{"text": "Signalement client : Le script de livraison de la plateforme s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : La passerelle de paiement de l'application renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur le service de facturation", "label": "authentification"}
+{"text": "Urgent : Forte consommation de mémoire sur le portail client", "label": "performance"}
+{"text": "Le pool de connexions PostgreSQL de l'API est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur l'application", "label": "authentification"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de le service de facturation", "label": "interface"}
+{"text": "Le réseau est coupé entre les datacenters de le portail client", "label": "reseau"}
+{"text": "Urgent : Quota de stockage dépassé pour le site", "label": "stockage"}
+{"text": "Forte consommation de mémoire sur le portail client", "label": "performance"}
+{"text": "La plateforme est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Les requêtes vers le module d'export mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Code 502 renvoyé par le module d'export", "label": "serveur"}
+{"text": "Signalement client : Traceback Python dans les journaux de le service de facturation", "label": "bug_applicatif"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de le module d'export", "label": "reseau"}
+{"text": "Signalement client : Quota de stockage dépassé pour l'API", "label": "stockage"}
+{"text": "La passerelle de paiement de le portail client renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, la passerelle de paiement de le module d'export renvoie une erreur", "label": "paiement"}
+{"text": "Erreur TLS lors de l'appel à le service de facturation", "label": "reseau"}
+{"text": "Depuis hier, la plateforme est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à le portail client", "label": "reseau"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de l'application", "label": "interface"}
+{"text": "La traduction est incorrecte dans l'interface de la plateforme", "label": "interface"}
+{"text": "Erreur d'intégrité sur la table des commandes de le site", "label": "base_de_donnees"}
+{"text": "Transactions bloquées en attente sur le portail client", "label": "paiement"}
+{"text": "Depuis hier, code 502 renvoyé par le service de facturation", "label": "serveur"}
+{"text": "Le portail client est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Quota de stockage dépassé pour le backend", "label": "stockage"}
+{"text": "Le jeton JWT de l'application a expiré trop tôt", "label": "authentification"}
+{"text": "Le script de livraison de le module d'export s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, traceback Python dans les journaux de l'API", "label": "bug_applicatif"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à le portail client", "label": "reseau"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de le backend", "label": "deploiement"}
+{"text": "La connexion SSO ne fonctionne plus sur l'application", "label": "authentification"}
+{"text": "Le réseau est coupé entre les datacenters de l'API", "label": "reseau"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de le module d'export", "label": "base_de_donnees"}
+{"text": "Signalement client : Le menu de l'application est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Le script de livraison de le service de facturation s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Transactions bloquées en attente sur le module d'export", "label": "paiement"}
+{"text": "La passerelle de paiement de la plateforme renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de le backend", "label": "deploiement"}
+{"text": "Signalement client : L'application est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : La passerelle de paiement de le portail client renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Traceback Python dans les journaux de la plateforme", "label": "bug_applicatif"}
+{"text": "Code 502 renvoyé par le service de facturation", "label": "serveur"}
+{"text": "Erreur d'intégrité sur la table des commandes de l'application", "label": "base_de_donnees"}
+{"text": "Depuis hier, la passerelle de paiement de le portail client renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, transactions bloquées en attente sur le backend", "label": "paiement"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de le service de facturation", "label": "deploiement"}
+{"text": "Urgent : Erreur TLS lors de l'appel à l'application", "label": "reseau"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de l'API", "label": "interface"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de la plateforme est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Le menu de le module d'export est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de le backend", "label": "reseau"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de le site", "label": "stockage"}
+{"text": "Urgent : La passerelle de paiement de la plateforme renvoie une erreur", "label": "paiement"}
+{"text": "Le résultat affiché par le portail client ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Quota de stockage dépassé pour la plateforme", "label": "stockage"}
+{"text": "Signalement client : Transactions bloquées en attente sur l'application", "label": "paiement"}
+{"text": "Depuis hier, traceback Python dans les journaux de le site", "label": "bug_applicatif"}
+{"text": "Urgent : Le jeton JWT de le site a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Quota de stockage dépassé pour l'API", "label": "stockage"}
+{"text": "Traceback Python dans les journaux de l'application", "label": "bug_applicatif"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de l'application", "label": "stockage"}
+{"text": "Le script de livraison de l'API s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de l'application", "label": "interface"}
+{"text": "Le résultat affiché par l'application ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Une dépendance manquante empêche le build de le portail client", "label": "deploiement"}
+{"text": "Urgent : Le backend est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de la plateforme", "label": "deploiement"}
+{"text": "Depuis hier, quota de stockage dépassé pour le module d'export", "label": "stockage"}
+{"text": "Urgent : Erreur TLS lors de l'appel à le module d'export", "label": "reseau"}
+{"text": "L'application est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Le script de livraison de l'API s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de le site", "label": "reseau"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de la plateforme", "label": "base_de_donnees"}
+{"text": "Urgent : Le jeton JWT de le backend a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Quota de stockage dépassé pour le service de facturation", "label": "stockage"}
+{"text": "Depuis hier, le jeton JWT de la plateforme a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, le menu de l'API est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : La passerelle de paiement de le module d'export renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de le portail client", "label": "deploiement"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur le service de facturation", "label": "authentification"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de le module d'export", "label": "deploiement"}
+{"text": "Erreur d'écriture sur le système de fichiers de l'API", "label": "stockage"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de le service de facturation", "label": "interface"}
+{"text": "Signalement client : Traceback Python dans les journaux de le backend", "label": "bug_applicatif"}
+{"text": "Signalement client : Le module d'export est indisponible depuis ce matin", "label": "serveur"}
+{"text": "La passerelle de paiement de le site renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Forte consommation de mémoire sur le service de facturation", "label": "performance"}
+{"text": "Depuis hier, le résultat affiché par l'API ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, quota de stockage dépassé pour le backend", "label": "stockage"}
+{"text": "Depuis hier, les requêtes vers le service de facturation mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de le module d'export", "label": "interface"}
+{"text": "La traduction est incorrecte dans l'interface de l'API", "label": "interface"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de l'API", "label": "base_de_donnees"}
+{"text": "Signalement client : Le menu de l'API est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le résultat affiché par la plateforme ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Code 502 renvoyé par l'application", "label": "serveur"}
+{"text": "Depuis hier, traceback Python dans les journaux de le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : Le portail client est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Transactions bloquées en attente sur le site", "label": "paiement"}
+{"text": "Urgent : Traceback Python dans les journaux de l'application", "label": "bug_applicatif"}
+{"text": "Urgent : Le résultat affiché par le portail client ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de l'application", "label": "base_de_donnees"}
+{"text": "Depuis hier, les requêtes vers le site mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Traceback Python dans les journaux de le module d'export", "label": "bug_applicatif"}
+{"text": "Signalement client : Transactions bloquées en attente sur le service de facturation", "label": "paiement"}
+{"text": "Depuis hier, le menu de le portail client est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de le site est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur le module d'export", "label": "authentification"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de le portail client", "label": "reseau"}
+{"text": "Signalement client : Forte consommation de mémoire sur le service de facturation", "label": "performance"}
+{"text": "Depuis hier, le jeton JWT de l'application a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Le menu de le backend est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de l'API est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur le backend", "label": "authentification"}
+{"text": "La connexion SSO ne fonctionne plus sur la plateforme", "label": "authentification"}
+{"text": "Urgent : Les requêtes vers l'API mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de le service de facturation est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Le résultat affiché par le module d'export ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, le script de livraison de la plateforme s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, le portail client est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Le pool de connexions PostgreSQL de le site est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Code 502 renvoyé par le service de facturation", "label": "serveur"}
+{"text": "Depuis hier, forte consommation de mémoire sur le backend", "label": "performance"}
+{"text": "Signalement client : Les requêtes vers le service de facturation mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de le module d'export", "label": "stockage"}
+{"text": "Transactions bloquées en attente sur le module d'export", "label": "paiement"}
+{"text": "Traceback Python dans les journaux de le module d'export", "label": "bug_applicatif"}
+{"text": "Le réseau est coupé entre les datacenters de la plateforme", "label": "reseau"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur l'application", "label": "authentification"}
+{"text": "Le résultat affiché par le service de facturation ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de le site", "label": "deploiement"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de le module d'export", "label": "reseau"}
+{"text": "Urgent : Erreur TLS lors de l'appel à l'API", "label": "reseau"}
+{"text": "Urgent : Le menu de le site est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de le site", "label": "deploiement"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de l'API", "label": "stockage"}
+{"text": "Signalement client : La passerelle de paiement de le service de facturation renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, code 502 renvoyé par la plateforme", "label": "serveur"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur l'API", "label": "authentification"}
+{"text": "Depuis hier, traceback Python dans les journaux de le service de facturation", "label": "bug_applicatif"}
+{"text": "Urgent : Le jeton JWT de l'API a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Le menu de le site est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur l'API", "label": "authentification"}
+{"text": "Depuis hier, forte consommation de mémoire sur le site", "label": "performance"}
+{"text": "Erreur d'intégrité sur la table des commandes de le module d'export", "label": "base_de_donnees"}
+{"text": "Le menu de la plateforme est illisible sur petit écran", "label": "interface"}
+{"text": "Le pool de connexions PostgreSQL de le module d'export est épuisé", "label": "base_de_donnees"}
+{"text": "Une dépendance manquante empêche le build de l'application", "label": "deploiement"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de l'API est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : La passerelle de paiement de le site renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, une dépendance manquante empêche le build de la plateforme", "label": "deploiement"}
+{"text": "Urgent : Les requêtes vers la plateforme mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de le site est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : La passerelle de paiement de l'API renvoie une erreur", "label": "paiement"}
+{"text": "La passerelle de paiement de l'application renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur le service de facturation", "label": "authentification"}
+{"text": "Le backend est indisponible depuis ce matin", "label": "serveur"}
+{"text": "La traduction est incorrecte dans l'interface de l'application", "label": "interface"}
+{"text": "Signalement client : Le résultat affiché par le portail client ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, le jeton JWT de l'API a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Erreur TLS lors de l'appel à le backend", "label": "reseau"}
+{"text": "Signalement client : La passerelle de paiement de l'application renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de le service de facturation", "label": "reseau"}
+{"text": "Depuis hier, transactions bloquées en attente sur l'application", "label": "paiement"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de le site", "label": "base_de_donnees"}
+{"text": "Signalement client : Transactions bloquées en attente sur le site", "label": "paiement"}
+{"text": "Depuis hier, forte consommation de mémoire sur le service de facturation", "label": "performance"}
+{"text": "Erreur TLS lors de l'appel à la plateforme", "label": "reseau"}
+{"text": "Urgent : Erreur TLS lors de l'appel à le site", "label": "reseau"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de le module d'export", "label": "stockage"}
+{"text": "Signalement client : Le jeton JWT de le portail client a expiré trop tôt", "label": "authentification"}
+{"text": "Le pool de connexions PostgreSQL de le service de facturation est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de l'API", "label": "deploiement"}
+{"text": "Urgent : Code 502 renvoyé par l'API", "label": "serveur"}
+{"text": "Signalement client : Le script de livraison de le module d'export s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, le menu de l'application est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de le portail client", "label": "stockage"}
+{"text": "Urgent : Les requêtes vers l'application mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à le site", "label": "reseau"}
+{"text": "Depuis hier, le script de livraison de le module d'export s'interrompt en route", "label": "deploiement"}
+{"text": "Depuis hier, les requêtes vers le module d'export mettent plusieurs secondes", "label": "performance"}
+{"text": "Urgent : Forte consommation de mémoire sur le site", "label": "performance"}
+{"text": "Urgent : Transactions bloquées en attente sur le backend", "label": "paiement"}
+{"text": "Signalement client : Le réseau est coupé entre les datacenters de l'application", "label": "reseau"}
+{"text": "Urgent : L'application est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Une dépendance manquante empêche le build de l'application", "label": "deploiement"}
+{"text": "Le menu de l'API est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Les requêtes vers la plateforme mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, la passerelle de paiement de l'application renvoie une erreur", "label": "paiement"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de le portail client est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Code 502 renvoyé par le site", "label": "serveur"}
+{"text": "Signalement client : Quota de stockage dépassé pour l'application", "label": "stockage"}
+{"text": "Signalement client : Le résultat affiché par le backend ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Le jeton JWT de le backend a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, la passerelle de paiement de l'API renvoie une erreur", "label": "paiement"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de le service de facturation est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de le site", "label": "base_de_donnees"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de le backend", "label": "base_de_donnees"}
+{"text": "Signalement client : Le menu de le portail client est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, le menu de le site est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de l'application", "label": "interface"}
+{"text": "Signalement client : Le script de livraison de l'API s'interrompt en route", "label": "deploiement"}
+{"text": "Forte consommation de mémoire sur le site", "label": "performance"}
+{"text": "Depuis hier, l'API est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, transactions bloquées en attente sur le site", "label": "paiement"}
+{"text": "Urgent : Code 502 renvoyé par le portail client", "label": "serveur"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de la plateforme", "label": "stockage"}
+{"text": "Depuis hier, le jeton JWT de le portail client a expiré trop tôt", "label": "authentification"}
+{"text": "Traceback Python dans les journaux de la plateforme", "label": "bug_applicatif"}
+{"text": "Erreur TLS lors de l'appel à le site", "label": "reseau"}
+{"text": "Signalement client : Quota de stockage dépassé pour le module d'export", "label": "stockage"}
+{"text": "Erreur TLS lors de l'appel à le portail client", "label": "reseau"}
+{"text": "Urgent : Les requêtes vers le service de facturation mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à le module d'export", "label": "reseau"}
+{"text": "Les requêtes vers l'application mettent plusieurs secondes", "label": "performance"}
+{"text": "Urgent : Forte consommation de mémoire sur l'API", "label": "performance"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de le portail client", "label": "base_de_donnees"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de le backend", "label": "interface"}
+{"text": "Traceback Python dans les journaux de le site", "label": "bug_applicatif"}
+{"text": "Depuis hier, la traduction est incorrecte dans l'interface de le portail client", "label": "interface"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur l'API", "label": "authentification"}
+{"text": "Urgent : Code 502 renvoyé par l'application", "label": "serveur"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur la plateforme", "label": "authentification"}
+{"text": "Depuis hier, traceback Python dans les journaux de le backend", "label": "bug_applicatif"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de le service de facturation", "label": "base_de_donnees"}
+{"text": "Les requêtes vers le module d'export mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur le backend", "label": "authentification"}
+{"text": "Depuis hier, erreur d'intégrité sur la table des commandes de l'API", "label": "base_de_donnees"}
+{"text": "Urgent : Une dépendance manquante empêche le build de le service de facturation", "label": "deploiement"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à l'API", "label": "reseau"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à le site", "label": "reseau"}
+{"text": "Quota de stockage dépassé pour le module d'export", "label": "stockage"}
+{"text": "Forte consommation de mémoire sur la plateforme", "label": "performance"}
+{"text": "Depuis hier, code 502 renvoyé par le module d'export", "label": "serveur"}
+{"text": "Signalement client : Le site est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Le résultat affiché par le backend ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur la plateforme", "label": "authentification"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de la plateforme", "label": "stockage"}
+{"text": "Signalement client : Les requêtes vers l'API mettent plusieurs secondes", "label": "performance"}
+{"text": "Les requêtes vers l'API mettent plusieurs secondes", "label": "performance"}
+{"text": "Signalement client : Transactions bloquées en attente sur le portail client", "label": "paiement"}
+{"text": "Signalement client : Forte consommation de mémoire sur le portail client", "label": "performance"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de le service de facturation", "label": "stockage"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de le backend", "label": "reseau"}
+{"text": "Signalement client : L'API est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Signalement client : Erreur d'intégrité sur la table des commandes de le portail client", "label": "base_de_donnees"}
+{"text": "Urgent : Le script de livraison de le backend s'interrompt en route", "label": "deploiement"}
+{"text": "Quota de stockage dépassé pour l'API", "label": "stockage"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de l'application est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Erreur d'intégrité sur la table des commandes de le service de facturation", "label": "base_de_donnees"}
+{"text": "Signalement client : Les requêtes vers le portail client mettent plusieurs secondes", "label": "performance"}
+{"text": "Le jeton JWT de la plateforme a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Erreur TLS lors de l'appel à l'application", "label": "reseau"}
+{"text": "Signalement client : Le script de livraison de le portail client s'interrompt en route", "label": "deploiement"}
+{"text": "Le pool de connexions PostgreSQL de la plateforme est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de le module d'export est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, transactions bloquées en attente sur l'API", "label": "paiement"}
+{"text": "Urgent : Erreur d'écriture sur le système de fichiers de le portail client", "label": "stockage"}
+{"text": "Le jeton JWT de le service de facturation a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Le menu de la plateforme est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de le module d'export est épuisé", "label": "base_de_donnees"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de l'API", "label": "reseau"}
+{"text": "Depuis hier, forte consommation de mémoire sur l'application", "label": "performance"}
+{"text": "Signalement client : Le résultat affiché par le service de facturation ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, traceback Python dans les journaux de le module d'export", "label": "bug_applicatif"}
+{"text": "L'API est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Urgent : Le résultat affiché par l'application ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Une dépendance manquante empêche le build de le service de facturation", "label": "deploiement"}
+{"text": "Depuis hier, le script de livraison de le backend s'interrompt en route", "label": "deploiement"}
+{"text": "Urgent : Le menu de le portail client est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, le réseau est coupé entre les datacenters de l'application", "label": "reseau"}
+{"text": "Urgent : Le jeton JWT de l'application a expiré trop tôt", "label": "authentification"}
+{"text": "Le résultat affiché par la plateforme ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Transactions bloquées en attente sur le backend", "label": "paiement"}
+{"text": "Urgent : Forte consommation de mémoire sur l'application", "label": "performance"}
+{"text": "Signalement client : La passerelle de paiement de l'API renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : La passerelle de paiement de le site renvoie une erreur", "label": "paiement"}
+{"text": "Le menu de le site est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, les requêtes vers le portail client mettent plusieurs secondes", "label": "performance"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de le portail client est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Traceback Python dans les journaux de le backend", "label": "bug_applicatif"}
+{"text": "Urgent : Le menu de le backend est illisible sur petit écran", "label": "interface"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de le backend est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Le réseau est coupé entre les datacenters de le service de facturation", "label": "reseau"}
+{"text": "Erreur d'écriture sur le système de fichiers de le backend", "label": "stockage"}
+{"text": "Depuis hier, code 502 renvoyé par le backend", "label": "serveur"}
+{"text": "Urgent : La connexion SSO ne fonctionne plus sur le portail client", "label": "authentification"}
+{"text": "Signalement client : Le script de livraison de le service de facturation s'interrompt en route", "label": "deploiement"}
+{"text": "Signalement client : Le pool de connexions PostgreSQL de le site est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : La connexion SSO ne fonctionne plus sur le site", "label": "authentification"}
+{"text": "Traceback Python dans les journaux de le portail client", "label": "bug_applicatif"}
+{"text": "Signalement client : Transactions bloquées en attente sur la plateforme", "label": "paiement"}
+{"text": "Erreur d'écriture sur le système de fichiers de le module d'export", "label": "stockage"}
+{"text": "Signalement client : Les requêtes vers le module d'export mettent plusieurs secondes", "label": "performance"}
+{"text": "Depuis hier, forte consommation de mémoire sur la plateforme", "label": "performance"}
+{"text": "Le réseau est coupé entre les datacenters de le backend", "label": "reseau"}
+{"text": "La passerelle de paiement de le backend renvoie une erreur", "label": "paiement"}
+{"text": "Urgent : Une dépendance manquante empêche le build de le backend", "label": "deploiement"}
+{"text": "Le réseau est coupé entre les datacenters de le site", "label": "reseau"}
+{"text": "Depuis hier, erreur TLS lors de l'appel à la plateforme", "label": "reseau"}
+{"text": "Urgent : Le résultat affiché par la plateforme ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de le service de facturation", "label": "stockage"}
+{"text": "Quota de stockage dépassé pour le backend", "label": "stockage"}
+{"text": "Depuis hier, la connexion SSO ne fonctionne plus sur le backend", "label": "authentification"}
+{"text": "Depuis hier, le pool de connexions PostgreSQL de le backend est épuisé", "label": "base_de_donnees"}
+{"text": "Signalement client : Code 502 renvoyé par l'API", "label": "serveur"}
+{"text": "Depuis hier, le résultat affiché par le module d'export ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, le menu de le backend est illisible sur petit écran", "label": "interface"}
+{"text": "Le jeton JWT de le module d'export a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Quota de stockage dépassé pour le service de facturation", "label": "stockage"}
+{"text": "Depuis hier, le jeton JWT de le site a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Le service de facturation est indisponible depuis ce matin", "label": "serveur"}
+{"text": "Depuis hier, le jeton JWT de le backend a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Transactions bloquées en attente sur le service de facturation", "label": "paiement"}
+{"text": "Signalement client : Transactions bloquées en attente sur l'API", "label": "paiement"}
+{"text": "Urgent : Code 502 renvoyé par le module d'export", "label": "serveur"}
+{"text": "Urgent : Le résultat affiché par le site ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Depuis hier, erreur d'écriture sur le système de fichiers de le service de facturation", "label": "stockage"}
+{"text": "Erreur TLS lors de l'appel à l'application", "label": "reseau"}
+{"text": "Une dépendance manquante empêche le build de le portail client", "label": "deploiement"}
+{"text": "Signalement client : Le résultat affiché par l'API ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Le script de livraison de la plateforme s'interrompt en route", "label": "deploiement"}
+{"text": "Le menu de le portail client est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, traceback Python dans les journaux de l'application", "label": "bug_applicatif"}
+{"text": "Signalement client : La traduction est incorrecte dans l'interface de le backend", "label": "interface"}
+{"text": "Signalement client : Le jeton JWT de l'API a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, le résultat affiché par le site ne correspond pas au résultat attendu", "label": "bug_applicatif"}
+{"text": "Urgent : Le pool de connexions PostgreSQL de l'API est épuisé", "label": "base_de_donnees"}
+{"text": "Urgent : Le menu de l'application est illisible sur petit écran", "label": "interface"}
+{"text": "Depuis hier, les requêtes vers l'API mettent plusieurs secondes", "label": "performance"}
+{"text": "Le jeton JWT de l'API a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : Forte consommation de mémoire sur le module d'export", "label": "performance"}
+{"text": "Signalement client : Erreur d'écriture sur le système de fichiers de le portail client", "label": "stockage"}
+{"text": "Signalement client : Le jeton JWT de le module d'export a expiré trop tôt", "label": "authentification"}
+{"text": "Signalement client : Le jeton JWT de le site a expiré trop tôt", "label": "authentification"}
+{"text": "Depuis hier, le menu de la plateforme est illisible sur petit écran", "label": "interface"}
+{"text": "Urgent : Le jeton JWT de la plateforme a expiré trop tôt", "label": "authentification"}
+{"text": "Urgent : La traduction est incorrecte dans l'interface de le backend", "label": "interface"}

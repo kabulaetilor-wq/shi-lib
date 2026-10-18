@@ -1,0 +1,60 @@
+{"text": "Le site renvoie une erreur dès qu'on essaie de l'ouvrir", "label": "serveur"}
+{"text": "Plus aucune de nos machines ne répond aux appels", "label": "serveur"}
+{"text": "Le service de génération de PDF est arrêté et ne repart pas", "label": "serveur"}
+{"text": "L'application s'effondre quand on lui envoie trop de trafic", "label": "serveur"}
+{"text": "Nos utilisateurs obtiennent une page 'Service indisponible'", "label": "serveur"}
+{"text": "L'écran de statistiques met une éternité à s'afficher", "label": "performance"}
+{"text": "On observe une montée progressive de la mémoire utilisée", "label": "performance"}
+{"text": "Le traitement des images ralentit tout le reste du système", "label": "performance"}
+{"text": "Les réponses sont très tardives en fin de mois", "label": "performance"}
+{"text": "Le CPU de la machine est tout le temps au maximum", "label": "performance"}
+{"text": "Une opération sur la table des factures fait attendre toutes les autres", "label": "base_de_donnees"}
+{"text": "La base de test est inutilisable après la migration", "label": "base_de_donnees"}
+{"text": "Notre instance PostgreSQL ne répond plus aux connexions", "label": "base_de_donnees"}
+{"text": "L'insertion d'un enregistrement échoue avec une violation de clé", "label": "base_de_donnees"}
+{"text": "Le serveur SQL manque de connexions disponibles", "label": "base_de_donnees"}
+{"text": "Impossible de me connecter avec mon identifiant habituel", "label": "authentification"}
+{"text": "Le système affiche 'session invalide' à chaque page", "label": "authentification"}
+{"text": "Les employés sont rejetés par l'authentification unique", "label": "authentification"}
+{"text": "Le code à usage unique n'est jamais reçu", "label": "authentification"}
+{"text": "Le jeton d'accès expire au bout de dix secondes", "label": "authentification"}
+{"text": "L'adresse du site renvoie une alerte de certificat dans le navigateur", "label": "reseau"}
+{"text": "Le nom de domaine ne correspond plus au bon serveur", "label": "reseau"}
+{"text": "Les connexions vers l'extérieur sont coupées par le pare-feu", "label": "reseau"}
+{"text": "Le trafic n'arrive plus jusqu'à nos serveurs depuis le changement de réseau", "label": "reseau"}
+{"text": "On perd la liaison entre les deux sites toutes les heures", "label": "reseau"}
+{"text": "Les achats échouent au moment de saisir la carte bancaire", "label": "paiement"}
+{"text": "Un montant erroné apparaît sur la facture du client", "label": "paiement"}
+{"text": "Les remboursements n'ont pas été versés", "label": "paiement"}
+{"text": "Le système de règlement est en panne depuis ce matin", "label": "paiement"}
+{"text": "Le client a payé mais sa commande est marquée non réglée", "label": "paiement"}
+{"text": "La mise en ligne de la nouvelle version a échoué", "label": "deploiement"}
+{"text": "Le build échoue à cause d'une dépendance manquante", "label": "deploiement"}
+{"text": "Il faut annuler la livraison d'hier, elle a cassé le site", "label": "deploiement"}
+{"text": "Le pipeline d'intégration est rouge depuis deux jours", "label": "deploiement"}
+{"text": "La publication de la version est restée bloquée", "label": "deploiement"}
+{"text": "Le serveur n'a plus de place pour de nouveaux fichiers", "label": "stockage"}
+{"text": "L'envoi de documents échoue car le volume est rempli", "label": "stockage"}
+{"text": "Le disque de sauvegarde est saturé", "label": "stockage"}
+{"text": "Impossible d'écrire sur la partition des journaux", "label": "stockage"}
+{"text": "On a dépassé notre limite d'espace dans le cloud", "label": "stockage"}
+{"text": "La page de profil est mal affichée sur téléphone", "label": "interface"}
+{"text": "Le bouton Envoyer ne réagit pas quand on appuie dessus", "label": "interface"}
+{"text": "Les éléments du menu se chevauchent à l'écran", "label": "interface"}
+{"text": "On obtient un écran blanc après le clic sur Valider", "label": "interface"}
+{"text": "Les images de la galerie ne s'affichent pas", "label": "interface"}
+{"text": "Le total du panier ne correspond pas à la somme des articles", "label": "bug_applicatif"}
+{"text": "Une erreur de division par zéro survient dans le calcul de la moyenne", "label": "bug_applicatif"}
+{"text": "La même personne apparaît trois fois après l'import", "label": "bug_applicatif"}
+{"text": "L'application plante quand un champ facultatif est vide", "label": "bug_applicatif"}
+{"text": "La date de livraison affichée est décalée d'un jour", "label": "bug_applicatif"}
+{"text": "Un attaquant teste des milliers de combinaisons sur notre page de login", "label": "securite"}
+{"text": "Une clé secrète a été publiée par erreur dans un dépôt public", "label": "securite"}
+{"text": "Nos fichiers sont chiffrés et on nous demande une rançon", "label": "securite"}
+{"text": "Un utilisateur peut voir les données d'un autre en modifiant l'adresse", "label": "securite"}
+{"text": "Une faille connue touche la version de la bibliothèque que nous utilisons", "label": "securite"}
+{"text": "Qu'est-ce qu'on mange ce soir ?", "label": "inconnu"}
+{"text": "Je voudrais prendre un rendez-vous chez le dentiste", "label": "inconnu"}
+{"text": "Belle journée pour une promenade", "label": "inconnu"}
+{"text": "Mon ordinateur portable est tout neuf", "label": "inconnu"}
+{"text": "Bon week-end à toute l'équipe", "label": "inconnu"}

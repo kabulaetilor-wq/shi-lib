@@ -1,0 +1,60 @@
+{"text": "Notre application mobile ne reçoit plus aucune donnée du serveur depuis ce matin", "label": "serveur"}
+{"text": "Le service de messagerie s'est éteint pendant la nuit et personne ne l'a relancé", "label": "serveur"}
+{"text": "Toutes les requêtes se terminent par une erreur interne", "label": "serveur"}
+{"text": "Le programme quitte brutalement dès qu'on lui envoie un fichier", "label": "serveur"}
+{"text": "Le système ne démarre pas après la coupure d'électricité", "label": "serveur"}
+{"text": "Les clients se plaignent d'un chargement très long de leur espace", "label": "performance"}
+{"text": "Le serveur consomme de plus en plus de RAM jusqu'à tomber", "label": "performance"}
+{"text": "Chaque clic prend plusieurs secondes pour répondre", "label": "performance"}
+{"text": "Le traitement du rapport du soir dure six heures au lieu de vingt minutes", "label": "performance"}
+{"text": "Les temps d'attente explosent dès que plus de cent personnes sont connectées", "label": "performance"}
+{"text": "On n'arrive plus à lire les commandes dans la base", "label": "base_de_donnees"}
+{"text": "Un script de mise à jour des tables s'est arrêté à mi-chemin", "label": "base_de_donnees"}
+{"text": "Le serveur de données refuse les nouvelles sessions : quota de connexions atteint", "label": "base_de_donnees"}
+{"text": "Une requête mal écrite bloque les écritures de tous les autres", "label": "base_de_donnees"}
+{"text": "Postgres signale une corruption sur un fichier d'index", "label": "base_de_donnees"}
+{"text": "Mes collègues ne peuvent plus ouvrir leur session", "label": "authentification"}
+{"text": "Après avoir saisi le bon mot de passe, on revient sur la page d'accueil", "label": "authentification"}
+{"text": "Le lien de réinitialisation du mot de passe est déjà expiré à l'arrivée", "label": "authentification"}
+{"text": "L'accès à l'espace administrateur est refusé à tout le monde", "label": "authentification"}
+{"text": "Les jetons émis par le service d'identité sont considérés invalides", "label": "authentification"}
+{"text": "Le navigateur affiche un avertissement de sécurité sur notre adresse", "label": "reseau"}
+{"text": "Le site ne s'ouvre pas chez certains opérateurs mobiles", "label": "reseau"}
+{"text": "Les serveurs de deux régions ne communiquent plus entre eux", "label": "reseau"}
+{"text": "Notre adresse web pointe vers un ancien hébergeur", "label": "reseau"}
+{"text": "Les appels vers l'API du partenaire échouent faute de route", "label": "reseau"}
+{"text": "Les ventes sont à zéro car le règlement ne passe plus", "label": "paiement"}
+{"text": "Une cliente a été facturée deux fois pour le même achat", "label": "paiement"}
+{"text": "Le bouton Payer renvoie une erreur après la saisie de la carte", "label": "paiement"}
+{"text": "Les reçus de commande sont vides", "label": "paiement"}
+{"text": "Le prestataire bancaire ne confirme plus les transactions", "label": "paiement"}
+{"text": "La publication de la nouvelle version s'arrête en plein milieu", "label": "deploiement"}
+{"text": "Le robot d'intégration continue refuse notre dernier commit", "label": "deploiement"}
+{"text": "Il faut revenir à la livraison de la semaine dernière", "label": "deploiement"}
+{"text": "L'image Docker ne se construit plus depuis hier", "label": "deploiement"}
+{"text": "Après la mise en ligne de ce soir, la configuration est perdue", "label": "deploiement"}
+{"text": "Les nouveaux documents ne sont plus acceptés par le serveur de fichiers", "label": "stockage"}
+{"text": "La partition principale est remplie à 100 pour cent", "label": "stockage"}
+{"text": "Les archives de sauvegarde ont mangé toute la place disponible", "label": "stockage"}
+{"text": "Impossible d'ajouter une photo de profil, l'envoi échoue", "label": "stockage"}
+{"text": "Le service de stockage dans le cloud répond par un refus d'accès", "label": "stockage"}
+{"text": "Sur mon téléphone, la page d'accueil est toute déformée", "label": "interface"}
+{"text": "Le menu principal ne s'ouvre plus quand on le touche", "label": "interface"}
+{"text": "Les boutons se chevauchent dans la version tablette", "label": "interface"}
+{"text": "On voit une page vide avec seulement le logo", "label": "interface"}
+{"text": "Le champ de date n'affiche pas le calendrier", "label": "interface"}
+{"text": "Le programme calcule un prix de livraison négatif pour certaines villes", "label": "bug_applicatif"}
+{"text": "La liste des clients contient plusieurs fois la même personne après l'import", "label": "bug_applicatif"}
+{"text": "L'application s'arrête avec une erreur quand le nom contient une apostrophe", "label": "bug_applicatif"}
+{"text": "Les points de fidélité ne sont jamais ajoutés au solde", "label": "bug_applicatif"}
+{"text": "Le rapport affiche des chiffres différents selon la page", "label": "bug_applicatif"}
+{"text": "Quelqu'un essaie des milliers de mots de passe sur notre formulaire de connexion", "label": "securite"}
+{"text": "Un développeur a laissé un mot de passe dans le code public", "label": "securite"}
+{"text": "Nous avons reçu une demande de rançon après le chiffrement de nos données", "label": "securite"}
+{"text": "Un client peut consulter les factures d'un autre en changeant un numéro dans l'adresse", "label": "securite"}
+{"text": "Le scanner de vulnérabilités a trouvé une version dépassée avec une faille connue", "label": "securite"}
+{"text": "Est-ce que tu aimes les chats ?", "label": "inconnu"}
+{"text": "Le restaurant ferme à vingt-deux heures", "label": "inconnu"}
+{"text": "Je voudrais apprendre le piano", "label": "inconnu"}
+{"text": "Passez une excellente journée", "label": "inconnu"}
+{"text": "La réunion est reportée à lundi prochain", "label": "inconnu"}

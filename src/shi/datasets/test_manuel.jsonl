@@ -1,0 +1,20 @@
+{"text": "Notre API renvoie des 500 depuis la mise à jour de ce matin", "label": "serveur"}
+{"text": "Le site met 12 secondes à afficher la page d'accueil", "label": "performance"}
+{"text": "La requête de reporting expire sur la base", "label": "base_de_donnees"}
+{"text": "Aucun client ne parvient à se logguer", "label": "authentification"}
+{"text": "Le certificat HTTPS arrive à expiration sur le domaine", "label": "reseau"}
+{"text": "Stripe nous signale des échecs de prélèvement", "label": "paiement"}
+{"text": "Le build GitHub Actions est rouge depuis le dernier merge", "label": "deploiement"}
+{"text": "Le volume de logs a rempli tout le disque", "label": "stockage"}
+{"text": "Le bouton Valider ne réagit pas sur Safari", "label": "interface"}
+{"text": "Le total de la commande est arrondi de travers", "label": "bug_applicatif"}
+{"text": "Le serveur applicatif a planté cette nuit", "label": "serveur"}
+{"text": "Utilisation CPU à 100% et réponses très lentes", "label": "performance"}
+{"text": "Trop de connexions PostgreSQL ouvertes", "label": "base_de_donnees"}
+{"text": "Le mot de passe est refusé alors qu'il est correct", "label": "authentification"}
+{"text": "Le DNS ne résout plus notre domaine", "label": "reseau"}
+{"text": "Les remboursements ne partent plus", "label": "paiement"}
+{"text": "Le déploiement en production s'est arrêté à mi-chemin", "label": "deploiement"}
+{"text": "Plus d'espace pour enregistrer les fichiers envoyés", "label": "stockage"}
+{"text": "Le menu déroulant s'affiche mal sur téléphone", "label": "interface"}
+{"text": "Une division par zéro fait planter le calcul de la remise", "label": "bug_applicatif"}
