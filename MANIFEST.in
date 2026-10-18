@@ -1,0 +1,3 @@
+recursive-include src/shi/artifacts *
+recursive-include src/shi/datasets *.jsonl
+recursive-include src/shi/demo_repo *

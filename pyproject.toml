@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shi-saash"
+version = "0.3.0"
+description = "SHI (SaaS H Intelligence) : diagnostic d'incidents logiciels en conseil seulement, avec masquage des secrets, preuves et journal d'audit."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Proprietary" }
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+api = ["fastapi>=0.110", "uvicorn>=0.27"]
+dev = ["pytest>=7.0", "httpx>=0.26", "fastapi>=0.110", "uvicorn>=0.27"]
+
+[project.scripts]
+shi = "shi.cli:main"
+shi-server = "shi.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+shi = ["py.typed", "artifacts/**/*", "datasets/*.jsonl", "demo_repo/**/*"]
